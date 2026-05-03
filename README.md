@@ -4,7 +4,7 @@
 
 > **SolidWorks 2026** — Professional CAD software for 3D modeling, design, simulation, and technical documentation.
 
-[![Stars](https://img.shields.io/github/stars/PtrSkrzypek/SolidWorks-3D)](https://github.com/PtrSkrzypek/SolidWorks-3D) [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/PtrSkrzypek/SolidWorks-3D)](https://github.com/PtrSkrzypek/SolidWorks-3D) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
 **SolidWorks 2026** is the latest version of the popular professional 3D CAD software. It provides powerful tools for parametric modeling, assembly design, simulation, drawing creation, and engineering analysis with improved performance and a modern interface.
 
